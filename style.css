@@ -1,0 +1,35 @@
+body {
+    background-image: url("/latihan/image/jjk.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1 {
+    text-align: center;
+    background-color: darkslategray;
+}
+p {
+
+}
+h2 {
+    text-align: center;
+    background-color: darkslategray;
+}
+div {
+    padding: 20px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+    background-color: white;
+    margin-top: 100px;
+    margin-left: 20px;
+    margin-right: 50px;
+    margin-bottom: 100px;
+
+}
+
+.border {
+    border-style: solid;
+    border-color: aqua;
+    border-radius: 5px;
+}
